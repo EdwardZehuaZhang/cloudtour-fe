@@ -1,6 +1,27 @@
 node_modules
 .next
+cache
+server
+static
+types
+*.pack
+*.pack.old
+*.nft.json
+*.tsbuildinfo
 .env
 .env.local
 *.log
+app-build-manifest.json
+app-path-routes-manifest.json
+build-manifest.json
+BUILD_ID
+export-marker.json
+images-manifest.json
+next-minimal-server.js.nft.json
+next-server.js.nft.json
+prerender-manifest.json
+react-loadable-manifest.json
+required-server-files.json
+routes-manifest.json
+trace
 

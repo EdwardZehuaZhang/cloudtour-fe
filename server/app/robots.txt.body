@@ -1,8 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /dashboard/
-Disallow: /api/
-Disallow: /editor/
-Disallow: /auth/
-
-Sitemap: https://cloudtour.app/sitemap.xml
